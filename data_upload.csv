@@ -1,7 +1,5 @@
 Age,Memory,Constraint,Security,Simple,Usage,Scheme
 Yes,No,No,Security,Simple,Yes,3DES
-Yes,No,Yes,Security,Simple,Yes,3DES
-Yes,Yes,Yes,Security,Simple,Yes,3DES
 Yes,Yes,Yes,Speed,Simple,No,AES
 Yes,Yes,No,Speed,Simple,Yes,AES
 Yes,No,No,Speed,Simple,No,AES
